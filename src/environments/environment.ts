@@ -4,10 +4,10 @@
 
 export const environment = {
   production: false,
-  accessToken: "",
-  apiUrl:"https://api.github.com/users/",
+  // accessToken: "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",
+  // apiUrl:"https://api.github.com/users/",
 
-
+  
 };
 
 /*
